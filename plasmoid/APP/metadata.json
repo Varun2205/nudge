@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "test@gmail.com",
+                "Name": "Name"
+            }
+        ],
+        "Description": "testing",
+        "Icon": "clock",
+        "License": "GPLv3",
+        "Name": "TestApp",
+        "Version": "1.0.0"
+        
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": "org.kde.plasma.time,org.kde.plasma.date",
+    "KPackageStructure": "Plasma/Applet"
+}
